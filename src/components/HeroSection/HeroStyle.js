@@ -107,8 +107,8 @@ export const Img = styled.img`
   }
 
   @media (max-width: 640px) {
-    max-width: 330px;
-    max-height: 415px;
+    max-width: 256px;
+    max-height: 325px;
   }
 `;
 
