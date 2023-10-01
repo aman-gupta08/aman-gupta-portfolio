@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aman-gupta-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/aman-gupta-portfolio/static/js/main.92796125.js",
+    "main.js": "/aman-gupta-portfolio/static/js/main.4f1211b3.js",
     "static/media/HeroImage.jpg": "/aman-gupta-portfolio/static/media/HeroImage.8b7603854ad900a0d77b.jpg",
     "index.html": "/aman-gupta-portfolio/index.html",
     "main.bf538fe7.css.map": "/aman-gupta-portfolio/static/css/main.bf538fe7.css.map",
-    "main.92796125.js.map": "/aman-gupta-portfolio/static/js/main.92796125.js.map"
+    "main.4f1211b3.js.map": "/aman-gupta-portfolio/static/js/main.4f1211b3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.92796125.js"
+    "static/js/main.4f1211b3.js"
   ]
 }
